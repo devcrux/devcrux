@@ -6,6 +6,7 @@
 - I sometimes talk about money and financial independence: https://moneyturbine.com
 - Ask me about all things .NET MAUI.
 - Catch me on [the bird's app](https://twitter.com/oludayoalli)
+- If you like my work, buy me a coffee: https://paypal.me/soludayo
 
 ### I'm open to contract/freelance work! 🧑‍💻
 I'm a .NET Developer specialized in Xamarin/.NET MAUI, I have a solid UI/UX experience and I speak a bit of Kotlin. 
