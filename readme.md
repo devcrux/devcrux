@@ -7,9 +7,9 @@ I'm a .NET Developer specializing in Xamarin/.NET MAUI and Web APIs, I have soli
 - I sometimes talk about money and financial independence: https://moneyturbine.com
 - Ask me about all things .NET MAUI.
 - Catch me on [the bird's app](https://twitter.com/oludayoalli)
-- If you like my work, buy me a coffee: https://paypal.me/soludayo
+- If you like my work, buy me a coffee: [Donate with PayPal](https://paypal.me/soludayo) or [Donate with Card](https://buy.stripe.com/5kA8yM40KgObeHe3cc)
 
-[![Buy Me A Coffee](https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/misc/bmc-button.png)](https://paypal.me/soludayo)
+[![Buy Me A Coffee](https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/misc/bmc-button.png)](https://buy.stripe.com/5kA8yM40KgObeHe3cc)
 
 ### I'm open to work! 🧑‍💻
 I am open to different opportunities in these areas - C#, Xamarin/.NET MAUI, .Net Web API, and Kotlin.
